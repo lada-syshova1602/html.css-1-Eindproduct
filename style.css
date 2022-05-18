@@ -1,0 +1,35 @@
+body {
+  background-color: hsla(0, 100%, 70%, 0.3);
+  font-family: monospace;
+  color: hsl(0, 92%, 65%);
+}
+
+table.paginas th{
+  border: 1px solid rgb(226, 104, 104);
+}
+table.paginas {
+  border: 1px solid rgb(226, 104, 104);
+  border-collapse: collapse;
+  
+}
+a {
+  color: rgb(226, 104, 104);
+  text-decoration: none;
+  margin: 20px;
+  
+}
+
+table.inhoud th,td { 
+  border: 3px solid rgb(226, 104, 104);
+} 
+table.inhoud { 
+  border: 3px solid rgb(226, 104, 104);
+  border-collapse: collapse;
+} 
+table.inhoud td {
+  color: #ffffff;
+  background-color: #c15353 ;
+}
+.white {
+  color: #ffffff;
+}
